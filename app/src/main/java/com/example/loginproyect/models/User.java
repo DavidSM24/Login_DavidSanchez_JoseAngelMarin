@@ -6,7 +6,7 @@ public class User {
     private String password;
 
     public User(){
-        this(-1,"",""
+        this(-1,"","");
     }
 
     public User(int id,String username, String password) {
